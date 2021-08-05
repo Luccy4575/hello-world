@@ -1,2 +1,3 @@
 # hello-world
-Just do some exercises
+
+Hey, just for fun, what's the difference?
